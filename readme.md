@@ -1,1 +1,1 @@
-
+A real time chat application using laravel,vuejs and pusher.It is a group chat system where a user can send a message and other users receive the message in real time.Notification system is added to join and leave for any user in the group.Time for send and received message is also added.When one user is typing,it is shown to all users that particular user is typing.
